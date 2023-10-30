@@ -1,0 +1,17 @@
+h1 {
+  font-size: var(--sl-font-size-4x-large);
+}
+html {
+  border: 15px solid var(--sl-color-rose-600);
+}
+
+.container {
+  background-color: var(--sl-color-black-300);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  font-family: var(--sl-font-sans);
+  padding-bottom: 30px;
+}
